@@ -1,4 +1,4 @@
-CKEditor 4 位博QSITEX 優化版
+CKEditor 4 位博QSITEX 優化版 1.1
 ====================================
 
 上傳：林小吉 2014/10/07
@@ -47,4 +47,4 @@ CKEditor 4 位博QSITEX 優化版
 
 CKEDITOR 官網 DEMO
 
-<A href="http://www.example.com/ckeditor/samples/index.html">http://www.example.com/ckeditor/samples/index.html</a>
+<A href="http://ckeditor.com/demo">http://ckeditor.com/demo</a>
