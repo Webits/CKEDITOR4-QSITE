@@ -47,4 +47,4 @@ CKEditor 4 位博QSITEX 優化版
 
 CKEDITOR 官網 DEMO
 
-	<A href="http://www.example.com/ckeditor/samples/index.html">http://www.example.com/ckeditor/samples/index.html</a>
+<A href="http://www.example.com/ckeditor/samples/index.html">http://www.example.com/ckeditor/samples/index.html</a>
