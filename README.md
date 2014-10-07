@@ -1,39 +1,50 @@
-CKEditor 4
-==========
+CKEditor 4 位博QSITEX 優化版
+====================================
 
-Copyright (c) 2003-2014, CKSource - Frederico Knabben. All rights reserved.  
-http://ckeditor.com - See LICENSE.md for license information.
+上傳：林小吉 2014/10/07
 
-CKEditor is a text editor to be used inside web pages. It's not a replacement
-for desktop text editors like Word or OpenOffice, but a component to be used as
-part of web applications and websites.
+====================================
 
-## Documentation
+更新紀錄：
 
-The full editor documentation is available online at the following address:
-http://docs.ckeditor.com
+====================================
 
-## Installation
 
-Installing CKEditor is an easy task. Just follow these simple steps:
 
- 1. **Download** the latest version from the CKEditor website:
-    http://ckeditor.com. You should have already completed this step, but be
-    sure you have the very latest version.
- 2. **Extract** (decompress) the downloaded file into the root of your website.
 
-**Note:** CKEditor is by default installed in the `ckeditor` folder. You can
-place the files in whichever you want though.
 
-## Checking Your Installation
+使用方式：
+====================================
+這版本的編輯器安裝比較簡易，首先必須要在網站內的 PROGRAM 內丟入 CKEDITOR 這個目錄。
+只要在需要的頁面內引入：
 
-The editor comes with a few sample pages that can be used to verify that
-installation proceeded properly. Take a look at the `samples` directory.
+<script src="../ckeditor/ckeditor.js"></script>
 
-To test your installation, just call the following page at your website:
+然後在需要的 TEXTAREA 加上 class="ckeditor" 就可以了
 
-	http://<your site>/<CKEditor installation path>/samples/index.html
+<textarea class="ckeditor"  id="msg" name="msg" >
 
-For example:
+
+
+版本特色：
+====================================
+
+1.添加新細明體 / 微軟正黑體
+2.字體大小 10/11/12/13/14/16/18/20/22/24
+3.移除了內建圖片上傳以及部分功能
+
+
+
+注意事項：
+====================================
+
+
+
+
+
+====================================
+
+
+CKEDITOR 官網 DEMO
 
 	http://www.example.com/ckeditor/samples/index.html
